@@ -44,6 +44,7 @@ p
 $PART_NUM
 $PART_START
 
+n
 p
 w
 EOF
